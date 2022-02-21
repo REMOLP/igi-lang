@@ -1,0 +1,48 @@
+ So yeah
+ this is a comment
+  You can make a lot of them like that :)
+  Nanahira or something.
+
+.static
+	int 2137
+	float 7.27
+	str Coś tam coś tam haha ale śmieszne
+static.
+
+.dynamic
+	int nazwa1 18
+	str bezNazwySieNieObejdzie W przeciwieństwie do sekcji "static" gdzie interpreter automatycznie dobierze nazwe (chociaż oczywiście można ją mimo wszystko samemu dać ale to wciąż będzie wskaźnik, customowy, ale jednak dalej wskaźnik).	
+dynamic.
+
+.funcs
+	testFunc a=0,b=Napis mordeczko,c=69.96;str
+	===
+		wout Elo mordo :sunglasses:
+		return LOLOLOLOL
+	===
+
+	nothingFunc ;
+	===
+		return ;
+	===
+funcs.
+
+.igi
+ This is basically main of igi lang or starting point, however you want it to be called.
+	wout .static.
+	wout staticvar 0x325356
+
+	.if nazwa1 < 18
+		wout Nie jesteś pełnoletni jeszcze człowieku!!!
+	.elseif nazwa1 >= 18
+		wout Jesteś pełnoletni człowieku, dobrze.
+	elseif.
+	.else
+		wout Nie wiem
+	else.
+	if.
+
+	wout bezNazwySieNieObejdzie
+
+	wout To tyle na dzisiaj :) Papa ^^
+igi.
